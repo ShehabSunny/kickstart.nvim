@@ -1,5 +1,10 @@
 # kickstart.nvim
 
+### Installation (TLDR)
+
+1. Install Neovim from their official site.
+2. `git clone https://github.com/ShehabSunny/kickstart.nvim.git .` in `~/.config/nvim` directory.
+
 ### Introduction
 
 A starting point for Neovim that is:
